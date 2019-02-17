@@ -1,0 +1,8 @@
+.lallign {
+	text-align: center;
+}
+table, td {
+	border: 1px solid black; 
+	padding: 2px;
+	min-width: 200px;
+}

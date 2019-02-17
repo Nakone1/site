@@ -1,0 +1,26 @@
+table, td,th {
+	border: 1px solid black;
+}
+/*	Border of tables*/
+th{
+	background-color: #96dfff; 
+}
+td{
+	background-color: #ff726b;
+}
+.unusual{
+		background-color: #ffac34;
+}
+#boss{
+	background-color: #9fff33;
+}
+.unl{text-decoration: underline;}
+.ovl{text-decoration: overline;}
+.thl{text-decoration: line-through;}
+#fl:first-letter{
+font-size: 2em;
+  margin-right: 2px; 
+  color: #ff726b;
+  font-weight: bold;
+  text-shadow: -1px -1px 1px white, 1px 1px 1px #9E9D99;
+}
